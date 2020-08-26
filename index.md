@@ -1,5 +1,3 @@
-![image](rkg_logo_github_493_270.jpg)
-
 ## [Beach Bum Report](https://beachbumreport.com)
 
 ![image](bbr-logo-64.png)
