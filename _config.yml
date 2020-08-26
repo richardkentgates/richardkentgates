@@ -2,3 +2,5 @@ theme: jekyll-theme-leap-day
 classes: wide
 title: Richard Kent Gates
 description: Development & SEO
+github:
+  repository_url: https://github.com/richardkentgates
