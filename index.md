@@ -1,4 +1,4 @@
-![image](rkg_logo_640x640.jpg)
+![image](rkg_logo_github_493_270.jpg)
 
 ## [Beach Bum Report](https://beachbumreport.com)
 
