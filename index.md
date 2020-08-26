@@ -2,7 +2,7 @@
 
 ![image](bbr-logo-64.png)
 
-The [Beach Bum Report](https://beachbumreport.com) is a project that is near to my heart. Being a local and having the skills to promote this area while making money at it is a blessing.
+The [Beach Bum Report](https://beachbumreport.com) is a project that is near to my heart. Being a local in Northwest Florida and having the skills to promote this area while making money at it is a blessing.
 
 
 ## [Gap Creek Media](https://gapcreekmedia.com)
