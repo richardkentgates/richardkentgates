@@ -1,6 +1,6 @@
 ## J-Make
 
-I noticed Brackets wasn't opening, then found it's development was falling behind. So I switched to using Kate on KDE and started writing to feel it out, and three days later I had [J-Make](https://richardkentgates.github.io/j-make/). *Covid-Life* :|
+I noticed Brackets wasn't opening, then found it's development was falling behind. So I switched to using Kate on KDE and started writing to feel it out, and three days later I had [J-Make](https://richardkentgates.github.io/j-make/). *Covid-Life*
 
 
 ## Beach Bum Report
