@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+### J-Make
 
-You can use the [editor on GitHub](https://github.com/richardkentgates/richardkentgates/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I noticed Brackets wasn't opening, then found it's development was falling behind. So I switched to using Kate on KDE and started writing to feel it out, and three days later I had [J-Make](https://richardkentgates.github.io/j-make/). *Covid-Life* :|
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Beach Bum Report
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image](src)
 
-```markdown
-Syntax highlighted code block
+The [Beach Bum Report](https://beachbumreport.com) is a project that is near to my heart. Being a local and having the skills to promote this area while making money at it is a blessing.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Gap Creek Media
 
-1. Numbered
-2. List
+![Image](src)
 
-**Bold** and _Italic_ and `Code` text
+I work with [Amanda Angell](https://amanda.world), the owner of [Gap Creek Media](https://gapcreekmedia.com), to foster a productive web presence and provide long-term technical management for all of our clients.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### The Official Liberal Conspiracy Website
 
-### Jekyll Themes
+![Image](src)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/richardkentgates/richardkentgates/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I created [The Official Liberal Conspiracy Website](https://theofficialliberalconspiracywebsite.com/) to support my politics. I have endured enough ant-Democratic and conspiracy theory bumper stickers that I felt motivated to invest a few dollars in my response. It's all in fun and healthy politics so don't go out of your way to be offended.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Support or Contact
+
+Please use the contact form at [gapcreekmedia.com/contact-us/](https://gapcreekmedia.com/contact-us/)
