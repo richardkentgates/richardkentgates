@@ -15,8 +15,7 @@ The [Beach Bum Report](https://beachbumreport.com) is a project that is near to 
 I work with [Amanda Angell](https://amanda.world), the owner of [Gap Creek Media](https://gapcreekmedia.com), to foster a productive web presence and provide long-term technical management for all of our clients.
 
 
-<div style='padding:56.25% 0 0 0;position:relative;'>
-  <iframe src='https://vimeo.com/showcase/7242823/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>
+{% include vimeoPlayer.html id=page.vimeoId %}
   
 
 ---
