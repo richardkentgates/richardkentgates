@@ -25,6 +25,6 @@ I created [The Official Liberal Conspiracy Website](https://theofficialliberalco
 
 ---
 
-### Support or Contact
+### Contact
 
 Please use the contact form at [gapcreekmedia.com/contact-us/](https://gapcreekmedia.com/contact-us/)
