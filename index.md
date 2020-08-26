@@ -43,4 +43,4 @@ I noticed Brackets wasn't opening, then found it's development was falling behin
 
 ### Contact
 
-Please use the contact form at [gapcreekmedia.com/contact-us/](https://gapcreekmedia.com/contact-us/)
+Phone: [850-629-9561](tel:850-629-9561)
