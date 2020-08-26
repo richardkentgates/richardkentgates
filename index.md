@@ -19,7 +19,7 @@ The [Beach Bum Report](https://beachbumreport.com) is a project that is near to 
 I work with [Amanda Angell](https://amanda.world), the owner of [Gap Creek Media](https://gapcreekmedia.com), to foster a productive web presence and provide long-term technical management for all of our clients.
 
 
-## The Official Liberal Conspiracy Website
+## TOLCW
 
 ![Image](src)
 
