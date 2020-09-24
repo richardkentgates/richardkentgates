@@ -21,16 +21,6 @@ The [Beach Bum Report](https://beachbumreport.com) is a project that is near to 
 ---
 
 
-## [TOLCW](https://theofficialliberalconspiracywebsite.com)
-
-![image](rkg_logo_64x64.jpg)
-
-[The Official Liberal Conspiracy Website](https://theofficialliberalconspiracywebsite.com) was created to support my politics. I have endured enough ant-Democratic and conspiracy theory bumper stickers that I felt motivated to invest a few dollars in my response. It's all in fun and healthy politics so don't go out of your way to be offended.
-
-
----
-
-
 ## [J-Make](https://richardkentgates.github.io/j-make/)
 
 ![image](rkg_logo_64x64.jpg)
