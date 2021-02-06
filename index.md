@@ -31,4 +31,5 @@ Technical advisor to [Amanda Angell](https://amanda.world) for [Gap Creek Media]
 
 ### Contact
 
+
 Phone: [850-629-9561](tel:850-629-9561)
